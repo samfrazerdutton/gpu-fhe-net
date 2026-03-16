@@ -66,7 +66,7 @@ headroom for deeper networks with bootstrapping.
 
 **Custom CUDA kernels** — the underlying BFV operations (NTT, 
 encrypt, multiply, rescale) are implemented from scratch in CUDA. 
-See [cuFHE-lite](https://github.com/YOUR_USERNAME/cufhe-lite) 
+See [cuFHE-lite]- Built on top of [cuFHE-lite](https://github.com/samfrazerdutton/cufhe-lite) 
 for the base library.
 
 ## Requirements
