@@ -1,7 +1,3 @@
-nano ~/gpu-fhe-net/README.md
-```
-
-Press `Ctrl+K` repeatedly until empty. Then paste this:
 ```
 # gpu-fhe-net
 
